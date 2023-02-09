@@ -15,9 +15,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Infra", "03-Infra", "{F1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{30A50F58-7EA4-4DBC-BEB8-A5433B2BBB39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCM.FinancialMarketNotifier.Domain", "GCM.FinancialMarketNotifier.Domain\GCM.FinancialMarketNotifier.Domain.csproj", "{0C43ED47-A847-4A71-8E4D-E6BD11171AE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GCM.FinancialMarketNotifier.Domain", "GCM.FinancialMarketNotifier.Domain\GCM.FinancialMarketNotifier.Domain.csproj", "{0C43ED47-A847-4A71-8E4D-E6BD11171AE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCM.FinancialMarketNotifier.AntiCorruption", "GCM.FinancialMarketNotifier.AntiCorruption\GCM.FinancialMarketNotifier.AntiCorruption.csproj", "{B4F98FD8-4B0C-47FB-A30D-DA15BD4779ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GCM.FinancialMarketNotifier.AntiCorruption", "GCM.FinancialMarketNotifier.AntiCorruption\GCM.FinancialMarketNotifier.AntiCorruption.csproj", "{B4F98FD8-4B0C-47FB-A30D-DA15BD4779ED}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{9B159F18-4A2F-45A7-A050-A5887DE5E32B}"
 EndProject

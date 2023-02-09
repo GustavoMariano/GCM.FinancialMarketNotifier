@@ -1,3 +1,10 @@
+using GCM.FinancialMarketNotifier.AntiCorruption.HttpServices;
+using GCM.FinancialMarketNotifier.Domain.Models;
+
+ExchangeModel model = new();
+CurrencyExchangeService currencyExchangeService = new(new HttpClient());
+currencyExchangeService.GetCurrencyExchange(model);
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
