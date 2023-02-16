@@ -10,4 +10,12 @@
     <ProjectReference Include="..\GCM.FinancialMarketNotifier.AntiCorruption\GCM.FinancialMarketNotifier.AntiCorruption.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\lib\img\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\lib\img\logo.png" />
+  </ItemGroup>
+
 </Project>
